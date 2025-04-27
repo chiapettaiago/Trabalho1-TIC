@@ -50,3 +50,10 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+#Files
+.ccis-cache/
+.git/
+main
+main-debug
+Makefile
